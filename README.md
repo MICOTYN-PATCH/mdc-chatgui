@@ -1,4 +1,7 @@
 # www.micotyn.com chat gui
+
+forked from https://github.com/destinygg/chat-gui
+
 ## Requirements
 - Node.js
 
